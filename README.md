@@ -44,3 +44,12 @@
 - Локи (Locks)
 - Sagas
 - Відстежування зміни даних (CDC)
+
+## 7. Microservices patterns
+- Монолітний фронтенд, мікрофронтенди та page based декомпозиція
+- BFF
+- CQRS
+- Sidecar
+- Aggregator
+- Chained microservices
+- Proxy
