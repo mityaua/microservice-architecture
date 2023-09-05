@@ -53,3 +53,11 @@
 - Aggregator
 - Chained microservices
 - Proxy
+
+## 8. API Gateway and Testing
+- Service meshes
+- API Gateway
+- Gateway маршрутизація
+- Сервісні тести
+- Тести e2e та flakiness
+- Тести контрактів
