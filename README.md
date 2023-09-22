@@ -69,3 +69,11 @@
 - Патерн Circuit breaker
 - Патерн Bulkhead
 - Надлишковість
+
+## 10. Deployment
+- Інфраструктура як код (IaC)
+- Фізичні та віртуальні сервери
+- Kubernetes та Docker Swarm
+- Serverless
+- Continuous integration
+- Blue/green deployment та Progressive delivery (Canary)
