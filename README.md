@@ -77,3 +77,9 @@
 - Serverless
 - Continuous integration
 - Blue/green deployment та Progressive delivery (Canary)
+
+## 11. Scaling
+- Осі масштабування
+- Автоматичне масштабування
+- Serverless scaling
+- Стратегії кешування
