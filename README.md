@@ -83,3 +83,11 @@
 - Автоматичне масштабування
 - Serverless scaling
 - Стратегії кешування
+
+## 12. Monitoring and Observability
+- Агрегування логів
+- Розподілення трасування
+- Метрики
+- Alerting та Anomaly detection
+- SLA та SLO
+- Метрики інцидентів (MTBF, MTTR, MTTF, MTTA)
