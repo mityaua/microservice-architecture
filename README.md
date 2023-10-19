@@ -91,3 +91,16 @@
 - Alerting та Anomaly detection
 - SLA та SLO
 - Метрики інцидентів (MTBF, MTTR, MTTF, MTTA)
+
+## 13. Authentication and Security
+- Базові принципи та OWASP
+- Шифрування at rest / in transit
+- Міжсервісна аутентифікація
+- SSO
+- JWT
+
+## 14. Organizational structure
+- Закон Конвея
+- Agile та архітектура
+- Моделі відповідальності
+- Платформа
